@@ -27,7 +27,7 @@
 <img align="left" alt="C#" width="26px" src="https://aspnetcoremaster.com/img/csharp.webp">
 
 <img align="left" width="26px" alt="Java" src="https://cdn.worldvectorlogo.com/logos/java.svg">
-
+<img align= "left" alt="Android studio" width="26px" src="https://img.utdstc.com/icon/a72/4fd/a724fdd31aacfd851b13275a3b315cdec444704e2b0154d402e7df1e3eb7f0c1:200">
 
 
 
