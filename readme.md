@@ -1,6 +1,6 @@
 ### HI!, I'm Alan Flores 😎
 
-## I'm a Estudent, handsome and very interested for all the technology issues  🧑‍💻 ❗
+## I'm a Student, handsome and very interested for all the technology issues  🧑‍💻 ❗
 
 * I'm studying computer systems engineering 📖 🖥️ 
 * I'll be a very good frontend developer 👀 🥇
