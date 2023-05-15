@@ -5,7 +5,7 @@
 * I'm studying computer systems engineering 📖 🖥️ 
 * I'll be a very good frontend developer 👀 🥇
 * I'm actually learning a lot of frontend developers 💻 🖱️
-* 2023 goal 🥅 : Work like a frontend developer ✔️
+* 2023 goal 🥅 : Work like a frontend developer ✅✅✅✅✅
 * I love music, and i play on a band 🎸 🪗 with my brother
 
 ### Connect with me:
