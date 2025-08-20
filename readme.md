@@ -1,32 +1,37 @@
-### HI!, I'm Alan Flores 😎
+### Hola, soy Alan Flores 👋
 
-## I'm a Software Engineer with Full stack experience   🧑‍💻 ❗
+Soy **Ingeniero de Software** con experiencia en la creación de aplicaciones web completas (full-stack). Me especializo en el ecosistema **JavaScript**, usando tecnologías como **React**, **Next.js** y **Node.js**.
 
-* I am a computer systems engineering graduate. 📖 🖥️ 
-* I like to resolve programming exercises 👀 🥇
-* Always learning from great figures of web programming.  💻 🖱️
-* I love music, and I play on a band 🎸 🪗 with my brother.
+Actualmente, estoy enfocado en la construcción de APIs con **NestJS** y en la creación de aplicaciones monolíticas con **Next.js** y **Nuxt.js**.
 
-### Connect with me:
+---
+### Hi, I'm Alan Flores 👋
 
-[<img align="left" alt="Alan Flores | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I'm a **Software Engineer** with experience in building full-stack web applications. I specialize in the **JavaScript** ecosystem, using technologies like **React**, **Next.js**, and **Node.js**.
 
-<br />
+Currently, I'm focused on building APIs with **NestJS** and creating monolithic applications with **Next.js** and **Nuxt.js**.
 
-### Technologies
+---
 
-<div style="display:flex;gap:5px;">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+### Habilidades y Tecnologías (Skills and Technologies)
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
-<img src="https://img.shields.io/badge/Monkeytype-E2B714.svg?style=for-the-badge&logo=Monkeytype&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  
-</div>
+---
+
+### Contáctame
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/alan-flores-bbb458213/
