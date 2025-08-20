@@ -10,13 +10,13 @@
 ### Connect with me:
 
 [<img align="left" alt="Alan Flores | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="code wars" src="https://www.codewars.com/users/AlanF20/badges/large" />][codewars]
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 
 <br />
 
 
 
 
-[codewars]: https://www.codewars.com/users/AlanF20/badges/large
+
 
 [linkedin]: https://www.linkedin.com/in/alan-flores-bbb458213/
